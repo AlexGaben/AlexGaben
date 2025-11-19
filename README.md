@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Alex
-- 👀 I’m interested in coding and electronics.
-- 🌱 I’m currently learning html, CSS and C#.
+- 👋 Hi
 
 
 <!---
